@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.6'
-gem 'capybara'
 
 group :development, :test do
   gem 'sqlite3-ruby', :require => 'sqlite3'
@@ -13,4 +12,5 @@ end
 
 group :test do
   gem 'rspec'
+  gem 'webrat'
 end
