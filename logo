@@ -1,0 +1,96 @@
+commit 4831bf0911f7b743b989dc68e94fb6b56064b667
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 22:03:26 2012 +0200
+
+    Added layout links w routes
+
+commit 416e025de42cd1310dc23aa5d5e81266f42eaa5d
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 21:15:10 2012 +0200
+
+    added some partials, with footer
+
+commit a9a31c4f5f52c580360f871661ad51686943f6d4
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 21:05:42 2012 +0200
+
+    added custom css
+
+commit ff83535da3e2f0415fb95bcf6155e61d962570db
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 20:47:29 2012 +0200
+
+    Completed layout structure
+
+commit 3c55e0381ce292640d0cd556a318c2f167f73d49
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 20:21:11 2012 +0200
+
+    Added title helper plus stylesheets
+
+commit 555e56a1edc708145849a7b1aa99947618aa2aac
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 04:20:09 2012 +0200
+
+    End save
+
+commit d4343b0ca77c6a7f9528e689deffe4743d4581b4
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 02:51:56 2012 +0200
+
+    Added a title helper
+
+commit e9a27ebe616300f0e42f240711a36933941e778c
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 02:36:57 2012 +0200
+
+    Added a site layout
+
+commit 3958dc3d32fc8d45d195f6bd6b566487959f0f97
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 01:52:12 2012 +0200
+
+    more
+
+commit c56ba52a7f377a17067eda20c3a0bc196887662c
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 01:47:44 2012 +0200
+
+    Adjusting gems
+
+commit 1e35759024dab9cdcbdf3e01a7cbeba4457efa5b
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 01:47:35 2012 +0200
+
+    Adjusting gems
+
+commit 2b24dc869185af97262a8b9f44568435c31ea604
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 00:39:56 2012 +0200
+
+    Added a Pages controller
+
+commit 5dd98f47a51f24f5b6f796ea51f56fb06132bf02
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 00:24:17 2012 +0200
+
+    Updated Readme
+
+commit d73400cac5a4c9b36aefe82d75bc9062cca2a5c9
+Merge: ea16713 a7be092
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 00:22:48 2012 +0200
+
+    Merge branch 'master' of github.com:Gymmarn/sample_app
+
+commit a7be0926135c8dede4faacf211348f5171595301
+Author: Gymmarn <gusmon@gmail.com>
+Date:   Thu Jul 19 15:21:48 2012 -0700
+
+    Initial commit
+
+commit ea167131a4f8635728f92413b41599efe82dd538
+Author: Gustav Montgomerie <gusmon@gmail.com>
+Date:   Fri Jul 20 00:21:17 2012 +0200
+
+    Initial commit
