@@ -7,10 +7,10 @@ group :development, :test do
 end
 
 group :development do 
-  gem 'rspec-rails'
+  gem 'rspec-rails', '2.11.0'
 end
 
 group :test do
-  gem 'rspec'
   gem 'webrat'
+  gem 'rspec'
 end
